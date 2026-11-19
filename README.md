@@ -1,0 +1,1 @@
+# STM32H503CBT6 template
