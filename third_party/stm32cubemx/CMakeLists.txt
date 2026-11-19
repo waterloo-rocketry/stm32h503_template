@@ -1,0 +1,1 @@
+# Placeholder so CubeMX doesn't regenerate
