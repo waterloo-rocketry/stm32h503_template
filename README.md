@@ -11,7 +11,7 @@ Build, flash, and debug are performed using CMake through the STM32Cube VS Code 
 
 1. Go to https://github.com/waterloo-rocketry/stm32h503_template/ and click in the top right `Use this template > Create a new repository`.
 
-2. Disable `Include all branches`, make the owner the `waterloo-rocketry` organization, give it a descriptive but concise name starting with the prefix `cansw_`, and make the visibility `Public`. Then click `Create repository`.
+2. Disable `Include all branches`, make the owner the `waterloo-rocketry` organization, give it a descriptive but concise name (starting with the prefix `cansw_` if it's part of the CAN bus aboard the rocket), and make the visibility `Public`. Then click `Create repository`.
 
 3. Clone the repository to your computer. You can get the Git URL by opening your repo in GitHub, going to the `Code` tab, and clicking the green `Code` button, which will show the URL in the `Clone` section. Copy this URL, then on your computer (with Git installed), open a terminal and run:
 
